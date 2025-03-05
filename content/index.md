@@ -1,5 +1,5 @@
 ---
-title: TrueSvenpai
+title: Svens Digital Garden
 ---
 
 This is a blank Quartz installation.
